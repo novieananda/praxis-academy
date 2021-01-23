@@ -1,0 +1,20 @@
+1. cd - Menampilkan direktori saat ini dan memungkinkan Kamu beralih ke direktori lain
+2. chdir - Menampilkan direktori saat ini dan memungkinkan Kamu beralih ke direktori lain
+3. cls - Menghapus konten layar
+4. copy - Menyalin file atau banyak file ke lokasi lain. Juga dimungkinkan untuk menghubungkan beberapa file ke satu file
+5. dir - melihat daftar file dan sub-direktori yang ada di dalam sebuah direktori
+6. del - Menghapus file atau banyak file
+7. format - Memformat disk
+8. replace - mengganti satu atau beberapa file dalam sebuah direktori dengan file lain
+9. rename - mengubah nama file dan direktori
+10. convert - Mengkonversi partisi dari FAT / FAT32 ke NTFS.
+11. defrag - Defragmentasi semua atau hanya drive yang ditentukan
+12. ftp - Mentransfer data ke server FTP atau dari ini ke PC
+13. move - memindahkan satu file atau lebih ke direktori lain
+14. ipconfig - menampilkan informasi tentang pengaturan jaringan yang ditentukan untuk komputer atau laptop 
+15. exit - keluar dari Command Prompt atau menutup proses batch script yang sedang berjalan
+16.find - mencari teks tertentu dalam sebuah file
+17. add - membuat partisi baru yang serupa dengan sebuah partisi lain yang sudah ada di komputer 
+18. nslookup - Mengecek IP address di Name Server
+19. ping - Mengecek koneksi jaringan
+20. netstat - Menampilkan koneksi TCP/IP yang aktif
