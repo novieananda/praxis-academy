@@ -1,0 +1,23 @@
+Minggu 01- hari 01 Senin 08 Februari 2021
+
+1. install vscode beserta pluggin javascript
+2. browser
+3. os
+4. nodejs
+5. git
+
+plugin javascript =
+1. eslint = pendeteksi error js
+2. vetur = highlight vue js
+3. bracket pair color = kurung kurawal lebih kelihatan
+4. prettier = merapikan code otomatis
+5. live server = auto reload
+
+ruang lingkup (scope) >>global(keseluruhan) dan local(hanya fungsi tertentu)
+
+tipe data, variable, dan operator
+variable >> var, let, const
+tipe data >> dasar(string, number, boolean, undefined, null) lanjutan (array, object, map, set)
+operator >> aritmatika, perbandingan 
+
+kasus >> menampilkan data diri
