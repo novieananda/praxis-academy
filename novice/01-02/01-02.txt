@@ -1,0 +1,12 @@
+hari ke 2 >> 09 Februari 2021
+
+Control Flow and Error Handling
+
+
+Falsy values >>
+1. false
+2. undefined
+3. null
+4. 0
+5. NaN
+6.the empty string ("")
