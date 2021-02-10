@@ -4,12 +4,13 @@ function makan(nasi, air) {
 }
 makan(`nasi uduk`, `air putih`)
 
-function dewasa(age) {
+function dewasa(age, nasi, air) {
     console.log(typeof(age))
     if (typeof(age) == `number`) {
         if (age >= 20) {
-            // console.log(`yoi gw dah gede`)
-            return `umur saya ${age} dan aku udah gede`
+            m1 = makan(nasi, air)
+                // console.log(`yoi gw dah gede`)
+            return `umur saya ${age} dan aku udah gede sekarang ${m1}`
         } else {
             console.log(`bocil njirr`)
             return `aku masih anak anak ${age} tahun`
@@ -22,10 +23,10 @@ function dewasa(age) {
 function jumlah(a, b) {
     return a + b
 }
-hasil = jumlah(9, 8)
+hasil = jumlah(9, 8) + jumlah(8, 9)
 console.log(hasil + 20)
 
-cuy = dewasa(9)
+cuy = dewasa(20, 'jagung', 'es jeruk')
 console.log(cuy)
 
 //penggunaan function dengan cara baru 
